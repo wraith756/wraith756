@@ -66,9 +66,17 @@
 ---
 
 ## 🐍 Contribution Graph  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wraith756/wraith756/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <!-- Background container with gradient -->
+  <div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
+    
+  <!-- Snake animation -->
+  <img src="https://raw.githubusercontent.com/wraith756/wraith756/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  
+  </div>
 </p>
+
 
 ---
 
