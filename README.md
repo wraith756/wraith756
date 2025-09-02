@@ -65,6 +65,13 @@
 
 ---
 
+## 🐍 Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wraith756/wraith756/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ## 🎯 Fun Zone  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
