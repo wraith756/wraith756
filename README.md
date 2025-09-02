@@ -47,6 +47,9 @@
 ---
 
 ## 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith756&theme=radical&layout=compact&hide_border=false" height="165"/>
+</p>
 ## ⚡ Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
