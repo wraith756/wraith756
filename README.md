@@ -1,45 +1,57 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
-<br>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Enthusiast | Problem Solver</h3>
 
+---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-sharma-454750251/)
-<br>
-<br>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-sharma-454750251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anuragsharma73240@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/wraith756">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/RESTful%20API-005571.svg?style=for-the-badge" alt="RESTful API"/>
+</p>
 
-
-![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-<br>
-
+---
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=wraith756&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wraith756&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wraith756&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wraith756&theme=radical&hide_border=false" height="165"/>
+</p>
 
-## 📊 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wraith756)]
+---
 
+## 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith756&theme=radical&layout=compact&hide_border=false" height="165"/>
+</p>
+
+---
+
+## ✨ Fun Fact
+💡 *"Code is like humor. When you have to explain it, it’s bad."* 😅
