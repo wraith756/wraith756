@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 15px; border-radius: 12px;">
   <a href="https://www.linkedin.com/in/anurag-sharma-454750251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -43,7 +43,7 @@
 ---
 
 ## ⚡ Frameworks & Libraries  
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #141e30, #243b55); padding: 15px; border-radius: 12px;">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
@@ -51,7 +51,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 15px; border-radius: 12px;">
   <img src="https://github-readme-stats.vercel.app/api?username=wraith756&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wraith756&theme=tokyonight&hide_border=false" height="165"/>
 </p>
@@ -59,28 +59,13 @@
 ---
 
 ## 🚀 Top Languages  
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #1e3c72, #2a5298); padding: 15px; border-radius: 12px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wraith756&theme=tokyonight&layout=compact&hide_border=false" height="165"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <!-- Background container with gradient -->
-  <div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
-    
-  <!-- Snake animation -->
-  <img src="https://raw.githubusercontent.com/wraith756/wraith756/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-  
-  </div>
-</p>
-
-
----
-
 ## 🎯 Fun Zone  
-<p align="center">
+<p align="center" style="background: linear-gradient(90deg, #0f0c29, #302b63, #24243e); padding: 15px; border-radius: 12px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
